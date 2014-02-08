@@ -1,0 +1,60 @@
+From tengu@example.com  Fri Feb  7 09:07:25 2014
+Return-Path: <tengu@example.com>
+X-Original-To: skydog@example.com
+Delivered-To: skydog@example.com
+Received: from mail.relay.example.com (hoge.mailsv.example.com [101.110.9.80])
+	by ikulist.me (Postfix) with ESMTP id DEADBEEF
+	for <skydog@example.com>; Fri,  7 Feb 2014 09:07:24 +0900 (JST)
+Received: from hoge.i.example.com by mail.relay.example.com
+          with ESMTP
+          id <20140207000724565.LXYK.75048.mail.relay.example.com@foo.bar.example.com>
+          for <skydog@example.com>; Fri, 7 Feb 2014 09:07:24 +0900
+Received: from [10.0.1.4] ([100.100.100.100] [100.100.100.100])
+          by hoge.i.example.com with ESMTP
+          id <20140207000724308.PHJN.36465.hoge.i.example.com@hoge.mailsv.example.com>
+          for <skydog@example.com>; Fri, 7 Feb 2014 09:07:24 +0900
+Content-Type: multipart/mixed; boundary=Apple-Mail-E670757C-566F-46A7-82A7-DEADBEEF
+Content-Transfer-Encoding: 7bit
+From: Tengu <tengu@example.com>
+Message-Id: <DEADBEEF-F52B-4B36-85D0-A85CF7B02C40@i.example.com>
+Date: Fri, 7 Feb 2014 09:07:23 +0900
+To: skydog@example.com
+Mime-Version: 1.0 (1.0)
+X-Mailer: iPhone Mail (11B554a)
+X-SB-Service: Virus-Checked
+
+
+--Apple-Mail-E670757C-566F-46A7-82A7-DEADBEEF
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+
+
+--Apple-Mail-E670757C-566F-46A7-82A7-DEADBEEF
+Content-Type: video/quicktime;
+	name=IMG_1871.MOV
+Content-Disposition: attachment;
+	filename=IMG_1871.MOV
+Content-Transfer-Encoding: base64
+
+AAAAFGZ0eXBxdCAgAAAAAHF0ICAAAAAId2lkZQAFH/BtZGF0AMxABwECmcw9vwzRSFjPPtXVXVqr
+v/t19K3F5XAJ3IGCAn8vTl1gp73dvev+mdP7k6HqvY9gSPhj9sBRdjKC/NhSfNDr4s9vxLDea8xq
+8323ZeUP+X3JvDjTwujQ2Az8EM7vr8WMvUQ3XcUlWdKPJiW0AE/Vp/9ezHpVWH0UR9MPH8H81NLC
+TDmtd53oDi0zxegHATrVIamxEpxHFa51GS9VNbFJEm7ygldC528qv4b4jaatUBbRzweIapLbRxyL
+sLJRxmgxOOpVAr/t75Hr3wFNdL9W+6jFMoEXRWXWXlv1b5M3IWDTp2fWq12V6R2YWRzejxcsGoeQ
+gun1myMRO/1vD9iHj+l+j+ka/tf/kj2/1v7JUFg6xARj2hvzDlXd94QbEPSHx9WTYcaxWtPVEkL9
+68mzUjbPWEuMjEqz7ATnUlsaDVOtVr2KQB+ErBVMDV4yjb7SV98AOAE4FSF0FiogjoMhCVrLkjWa
+1uJUSoqYBMlEOhCRm09ZGgV63Q1a4wUTmlHMnQU4dTztSpFeIPy1kCEkSUmrrynJUaPR0969bHkd
+OBRA8U2m5LSqym8uMRbAxPfBCSMrG45Tehj44a8foL+3aferA5e3ZIxm7F46TGJ00WIVRyqGOwGP
++XuRy0V22Z4HBNgFT8egu8ly1ZSxg4E2f8LosOBk5VtSDBuj2i8H50UkH9cwHAE8FShwlSIsiqEi
+CVpazW+rXzJKRhQiYCo6CBnBTNwWQh+LQ2j+A6BodQdwMkx4BdmXerV115e513ze4CxTfoARdXLL
+yc85Wa4AVN1/fnu3W5IO1mn1AEUznDs4xI++urrgjoHKJOzZlRJzbdl+AWGCR1YcpXaC+UXh1/z8
+CNK3KwxMr/OZFKKVv8ziptt3fbQB+QhtVekHppiCPnvnW35Vo5IayR+60KJQD1xA4AE0FSksZFkw
+SOO9JLvvi0xolGFCKKio4Ay8W6s907Q+1E9AFFBokUDoXwCo18+xxdp7ckxQ8U8+XEKyLjsfJ3GF
+0zoCVwTezS8fy09TyPAEtnj0DlFSClfr+HVz6+wHqdUgHh8HUYpy/5PUBzKcejsBm1xgpi/5U6sM
+7OlJ51Yeiek2GxMdCZ8GfGrifNn+r7yalnTaiOuyQTsu0HmTrCpVTR39/XTZjmUk6XA4ATgVKKzE
+QSzM43otrepbLmSpVKqQFAjgRLzAWJLg1+4XP5gemCfrlGfSs0oS0IBMFEWViwWoMOT95GOAjMEZ
+--Apple-Mail-E670757C-566F-46A7-82A7-DEADBEEF--
+
